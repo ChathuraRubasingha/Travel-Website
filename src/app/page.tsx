@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div className="w-full h-screen bg-red-50">
+    <div className="w-full h-screen bg-[#76490cee]">
       
     </div>
   );
